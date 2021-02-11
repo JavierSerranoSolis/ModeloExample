@@ -6,6 +6,7 @@ public class NewClass : MonoBehaviour
 {
 
     public int newValueX = 0;
+    public int newValueY = 0;
 
     // Start is called before the first frame update
     void Start()
